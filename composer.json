@@ -1,5 +1,5 @@
 {
-    "name": "irazasyed/jwt-auth-guard",
+    "name": "quibax/jwt-auth-guard",
     "description": "JWT Auth Guard for Laravel and Lumen",
     "keywords": ["irazasyed", "laravel jwt auth guard", "lumen jwt auth guard", "jwt auth guard", "jwt guard"],
     "homepage": "https://github.com/irazasyed/laravel-jwt-guard",
